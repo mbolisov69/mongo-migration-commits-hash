@@ -1,4 +1,4 @@
-module github.com/mbolisov69/mongo-migrate-commits-hash
+module github.com/mbolisov69/mongo-migration-commits-hash
 
 go 1.20
 
